@@ -40,7 +40,7 @@ El projecte s'estructura en 4 fases seqüencials, cadascuna implementada en un s
 
 ### R i paquets necessaris
 
-- R >= 4.2
+- Versió R -> 4.2
 - `tidyverse`, `magick`, `fs`, `patchwork`, `scales`
 - `keras3`, `tensorflow`, `tfdatasets`
 - `reticulate`
